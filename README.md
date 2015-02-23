@@ -7,12 +7,20 @@
 
 ## Setup
 
-1. [Install Sparks](http://getsparks.org/install) if you haven't done so already.
+1. [Install Sparks](http://getsparks.org/install)
 2. Install the twig_driver spark (see [here](http://getsparks.org/get-sparks) if you don't know how).
+3. Get twig via composer and load to project [twig_composer](https://packagist.org/packages/twig/twig)
+
+## Composer to CI
+
+Load composer into your CI project [composer and ci](http://codesamplez.com/development/composer-with-codeigniter)
+
 
 ## Info
 
 twig_driver is a spark that allows you to integrate twig template engine into your project.
+
+## How to in
 
 ## Usage
 
@@ -34,7 +42,7 @@ use:
 
 ## twig_driver 1.
 
-#### incluede:
+#### include:
 
 	config-> autoload.php
 	config-> twig.php
