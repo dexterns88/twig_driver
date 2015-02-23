@@ -1,0 +1,9 @@
+# This is the spark-sdk specification. It's in a magical format called YAML.
+#  Use this format while developing your own sparks!
+
+
+name: twig_driver
+
+version: 1.0.0
+
+compatibility: 3.0.0
